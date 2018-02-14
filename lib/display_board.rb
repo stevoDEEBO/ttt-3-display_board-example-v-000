@@ -4,9 +4,9 @@ def display_board
   cell = "   "
   row = [cell, "|", cell, "|", cell]
   dash = "-----------"
-  puts row
-  puts dash
-  puts row
-  puts dash
-  puts row
+  print row
+  print dash
+  print row
+  print dash
+  print row
 end
